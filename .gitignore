@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+
+# Binaries
+Binaries/
+Intermediate/
+DerivedDataCache/
+
+# Ignore build outputs
+*.pdb
+*.exe
+*.dll
+
+# Ignore config files
+Saved/
